@@ -25,3 +25,6 @@ ul a{
 img{
     width: 100%;
 }
+
+nav li a{
+    padding: 10px 20px;
